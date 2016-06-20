@@ -19,7 +19,7 @@ section {
 	padding: 5px 0px 5px 0px;
 }
 
-span {
+.box {
   width: 100%;
   padding: 30px 5px 0px 10px;
   border: 1px solid black;
