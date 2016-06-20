@@ -35,7 +35,7 @@ section {
   background-color: #FF0000;
   border: 1px solid;
   position: absolute;
-  right: 10px;
+  right: 0px;
 }
 
 #title2 {
@@ -44,14 +44,14 @@ section {
   background-color: #00FF00;
   border: 1px solid black;
 position: absolute;
-  right: 10px;
+  right: 0px;
 }
 
 #title3 {
   background-color: #0000FF;
   border: 1px solid;
  position: absolute;
-  right: 10px;
+  right: 0px;
 }
 p {
 margin-top: 40px;
