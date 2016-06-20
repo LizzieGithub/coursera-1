@@ -53,6 +53,9 @@ position: absolute;
  position: absolute;
   right: 10px;
 }
+p {
+margin-top: 40px;
+}
 
 
 ?* Responsive Framework */
