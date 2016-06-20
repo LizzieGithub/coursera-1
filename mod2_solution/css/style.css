@@ -34,7 +34,7 @@ section {
 #title1 {	
   background-color: #FF0000;
   border: 1px solid;
-  position: absolute;
+
   right: 10px;
 }
 
@@ -43,14 +43,14 @@ section {
   font-weight: bold;
   background-color: #00FF00;
   border: 1px solid black;
-  position: absolute;
+
   right: 10px;
 }
 
 #title3 {
-  background-color: #FF0000;
+  background-color: #0000FF;
   border: 1px solid;
-  position: absolute;
+ 
   right: 10px;
 }
 
