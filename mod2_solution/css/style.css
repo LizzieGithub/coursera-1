@@ -19,7 +19,7 @@ section {
 	padding: 5px 0px 5px 0px;
 }
 
-p {
+span {
   width: 100%;
   padding: 30px 5px 0px 10px;
   border: 1px solid black;
@@ -31,11 +31,10 @@ p {
 }
 
 #title1 {	
-  background-color: #00FFFF;
+  background-color: #FF0000;
   border: 1px solid;
   position: absolute;
   right: 10px;
-  top: 50px;
 }
 
 #title2 {
