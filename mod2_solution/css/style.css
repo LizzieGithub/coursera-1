@@ -74,10 +74,6 @@ p {
      padding: 10px;
      width: 33.33%;
   }
- 
-  h1 {
-     color: red;
-  }
 }
 
 /**** medium device ****/
@@ -92,11 +88,6 @@ p {
    .col-md-12 {
       width: 100%;
   }
-
-  h1 {
-    color: yellow;
-  }
-
 }
 
 /**** mobile device ****/
@@ -111,9 +102,6 @@ p {
     margin: 10px;
   }
 
-h1 {
-    color: green;
-  }
 .box {
     min-height: 150px !important;
   }
