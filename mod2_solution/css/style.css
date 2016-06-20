@@ -19,16 +19,17 @@ section {
 	padding: 5px 0px 5px 0px;
 }
 div div {
- 	background-color: lightgrey;	
-}
-p {
-  width: 100%;
-  padding: 30px 5px 0px 10px;
+ 	background-color: lightgrey; 
+ 	padding: 30px 5px 0px 10px;
   border: 1px solid black;
   margin-bottom: 15px;
   margin-left: auto;
   margin-right: auto;
-  position: relative;
+  position: relative;	
+}
+p {
+  width: 100%;
+ 
 }
 
 #title1 {	
